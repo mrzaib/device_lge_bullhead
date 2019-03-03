@@ -5,8 +5,8 @@
     "remote":      "aoscp"
   },
   {
-    "repository":  "proprietary_vendor_lge",
+    "repository":  "mrzaib/proprietary_vendor_bullhead",
     "target_path": "vendor/lge",
-	"remote":      "aoscp"
+	"remote":      "github"
   }
 ]
